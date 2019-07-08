@@ -1,0 +1,8 @@
+﻿@font-face {
+      font-family: "Larsseit";
+      src: url("Larsseit.ttf");
+}
+
+* {
+      font-family: "Larsseit";
+}
